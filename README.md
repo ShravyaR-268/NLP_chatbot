@@ -1,5 +1,5 @@
 ## Project Description
-NLP Chatbot is a conversational artificial intelligence system designed to interact with users through natural language. Built using Python, Flask, and OpenAI's API, this chatbot leverages advanced Natural Language Processing (NLP) capabilities to understand user inputs, provide relevant responses, and handle multiple use cases.
+NLP Chatbot is a conversational artificial intelligence system designed to interact with users through natural language. Built using Python as OpenAI ,Flask,HTML,CSS,JavaScript. This chatbot leverages advanced Natural Language Processing (NLP) capabilities to understand user inputs, provide relevant responses, and handle multiple use cases.
 
 ## Features:
 - **Conversational AI:**
